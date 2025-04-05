@@ -40,3 +40,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKxOhR3aQmH38Cc/giphy.gif" width="200"/>
 </p>
+### ⭐ My Starred Repositories
+
+Here are some of the repositories I’ve starred and love:
+
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – Learn to code for free
+- [public-apis](https://github.com/public-apis/public-apis) – A list of free APIs
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) – Useful JS code snippets
